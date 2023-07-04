@@ -25,4 +25,4 @@ jobs:
         run: echo "Tests running as a demo.."
 
       - name: Do something
-        run: echo "HAAALLOO"
+        run: echo "Haallais"
